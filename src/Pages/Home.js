@@ -34,12 +34,12 @@ function Home () {
         <Slider img={img} img2={img2} img3={img3}></Slider>
         <Categories cat={cat} type={type}></Categories>
         <img className="w-full" src={hero2} alt="hero2"></img>
-        <Products title={type[0]} filter={filter}></Products>
-        <Products title={type[1]} filter={filter2}></Products>
-        <Products title={type[2]} filter={filter3}></Products>
-        <Products title={type[3]} filter={filter4}></Products>
-        <Products title={type[4]} filter={filter5}></Products>
-        <Products title={type[5]} filter={filter6}></Products>
+        <Products title={type[0]} cla="Home" filter={filter}></Products>
+        <Products title={type[1]} cla="Home" filter={filter2}></Products>
+        <Products title={type[2]} cla="Home" filter={filter3}></Products>
+        <Products title={type[3]} cla="Home" filter={filter4}></Products>
+        <Products title={type[4]} cla="Home" filter={filter5}></Products>
+        <Products title={type[5]} cla="Home" filter={filter6}></Products>
         </>
     )
 }

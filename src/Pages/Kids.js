@@ -22,7 +22,7 @@ function Kids () {
     const cat = [Girls, Boys, Babies, Shoes, Socks, Accessories]
     const type = ["Girls", "Boys", "Babies", "Shoes", "Socks", "Accessories"]
     const filter = ["Pants", "Skirts", "Dresses", "Jumpsuits", "Full Outfits", "Winter", "All"]
-    const filter2 = ["Fulloutfit", "Pants", "T-shirts", "Winter", "All"]
+    const filter2 = ["Fulloutfit", "Pants", "T-shirts", "All"]
     const filter3 = ["Full outfit", "Dresses", "Pyjama", "All"]
     const filter5 = ["Girls", "Boys", "All"]
     const filter6 = ["Hair", "Hand", "All"]
@@ -33,12 +33,12 @@ function Kids () {
         <Slider img={img} img2={img2} img3={img3}></Slider>
         <Categories cat={cat} type={type}></Categories>
         <img className="w-full" src={hero2} alt="hero2"></img>
-        <Products title={type[0]} filter={filter}></Products>
-        <Products title={type[1]} filter={filter2}></Products>
-        <Products title={type[2]} filter={filter3}></Products>
-        <Products title={type[3]} filter={filter5}></Products>
-        <Products title={type[4]} filter={filter5}></Products>
-        <Products title={type[5]} filter={filter6}></Products>
+        <Products title={type[0]} cla="Kids" filter={filter}></Products>
+        <Products title={type[1]} cla="Kids" filter={filter2}></Products>
+        <Products title={type[2]} cla="Kids" filter={filter3}></Products>
+        <Products title={type[3]} cla="Kids" filter={filter5}></Products>
+        <Products title={type[4]} cla="Kids" filter={filter5}></Products>
+        <Products title={type[5]} cla="Kids" filter={filter6}></Products>
         </>
     )
 }

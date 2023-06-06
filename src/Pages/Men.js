@@ -19,7 +19,7 @@ import Products from "../Components/Products"
 
 function Men () {
     const cat = [Casual, Sports, Shorts, Coatses, Home]
-    const type = ["Casual", "Sports", "Shorts", "Coatses", "Home"]
+    const type = ["Casual", "Sports", "Shorts", "Coates", "Home"]
     const filter = ["Men suit", "Men's blazer", "suit pants", "All"]
     const filter2 = ["Jackets", "T-shirts", "Pants", "All"]
     const filter3 = ["Swimming shorts", "Beach shorts", "All"]
@@ -32,11 +32,11 @@ function Men () {
         <Slider img={img} img2={img2} img3={img3}></Slider>
         <Categories cat={cat} type={type}></Categories>
         <img className="w-full" src={hero2} alt="hero2"></img>
-        <Products title={type[0]} filter={filter}></Products>
-        <Products title={type[1]} filter={filter2}></Products>
-        <Products title={type[2]} filter={filter3}></Products>
-        <Products title={type[3]} filter={filter4}></Products>
-        <Products title={type[4]} filter={filter5}></Products>
+        <Products title={type[0]} cla="Men" filter={filter}></Products>
+        <Products title={type[1]} cla="Men" filter={filter2}></Products>
+        <Products title={type[2]} cla="Men" filter={filter3}></Products>
+        <Products title={type[3]} cla="Men" filter={filter4}></Products>
+        <Products title={type[4]} cla="Men" filter={filter5}></Products>
         </>
     )
 }

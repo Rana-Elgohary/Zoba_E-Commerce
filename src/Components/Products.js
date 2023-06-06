@@ -1,5 +1,5 @@
-import ProductsData from "../ProductsData";
 import React from 'react';
+import Product from './Product';
 
 function Products(props) {
     const arr = props.filter
@@ -20,12 +20,9 @@ function Products(props) {
                     })}
                 </form>
             </div>
-            {
-                ProductsData.map((e)=>{
-                    return <img key={e.id} src={e.image} alt={e.title}></img>
-                })
-            }
-            <img src="../img/Women/products/Vneck.jpg"></img>
+            <div className='flex flex-wrap justify-center'>
+                <Product title={props.title} cla={props.cla}></Product>
+            </div>
         </div>
         </>
     )

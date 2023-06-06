@@ -5,7 +5,7 @@ import NavBarLink from "./NavBarLink"
 function NavBar() {
     return(
         <>
-        <div className="bg-[whitesmoke] h-full py-3 text-xl sticky top-0">
+        <div className="bg-[whitesmoke] h-full py-3 text-xl sticky top-0 z-30">
             <div className="flex justify-center font-[Muli,Arial,Helvetica,sans-serif]">
                 <div>
                     <NavBarLink></NavBarLink>

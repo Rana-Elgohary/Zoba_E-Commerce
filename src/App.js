@@ -13,6 +13,7 @@ import SignUp from './Pages/SignUp';
 import Cart from './Pages/Cart';
 
 import { ScrollToTop } from 'react-router-scroll-to-top';
+import ProductDetails from './Pages/ProductDetails';
 
 function App() {
   return (
@@ -54,6 +55,11 @@ function App() {
           <Route path="signup" element={
             <>
             <SignUp></SignUp>
+            </>
+          }></Route>
+          <Route path="product/:id" element={
+            <>
+            <ProductDetails></ProductDetails>
             </>
           }></Route>
           <Route path="cart" element={

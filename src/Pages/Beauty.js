@@ -20,12 +20,12 @@ import Products from "../Components/Products"
 
 function Beauty () {
     const cat = [Brush, EyeLashes, Nail, Tattoos, Bags, Hair]
-    const type = ["MakeUp Brushes", "EyeLashes", "Nail Art & Tools", "Tattoos & Body Arts", "MakeUp Bags & Tools ", "Personal Care"]
-    const filter = ["Brushes Sets", "Eye & Lip Brushes", "Face Brushes & Brushes Accessories", "All"]
+    const type = ["MakeUp Brushes", "EyeLashes", "Nail Art & Tools", "Tattoos & Body Arts", "MakeUp Bags & Tools", "Personal Care"]
+    const filter = ["Brushes Sets", "Eye & Lip Brushes", "Face Brushes", "All"]
     const filter2 = ["False Eye Lashes", "EyeLashes Tools", "All"]
     const filter3 = ["Press On Nails", "Nail Art Equipments", "Nail Art Tools", "All"]
-    const filter4 = ["Temporary Tattoos", "Tattoos Stencils & Accessories", "All"]
-    const filter5 = ["MakeUp Bags", "Sponges & Blenders", "MakeUp Oranizers", "All"]
+    const filter4 = ["Temporary Tattoos", "Tattoos Stencils", "All"]
+    const filter5 = ["MakeUp Bags", "Sponges & Blenders", "MakeUp Organizers", "All"]
     const filter6 = ["Oral Care", "Skin Care Tools", "Hair Tools", "All"]
 
     return(
@@ -35,12 +35,12 @@ function Beauty () {
         <Slider img={img} img2={img2} img3={img3}></Slider>
         <Categories cat={cat} type={type}></Categories>
         <img className="w-full" src={hero2} alt="hero2"></img>
-        <Products title={type[0]} filter={filter}></Products>
-        <Products title={type[1]} filter={filter2}></Products>
-        <Products title={type[2]} filter={filter3}></Products>
-        <Products title={type[3]} filter={filter4}></Products>
-        <Products title={type[4]} filter={filter5}></Products>
-        <Products title={type[5]} filter={filter6}></Products>
+        <Products title={type[0]} cla="Beauty" filter={filter}></Products>
+        <Products title={type[1]} cla="Beauty" filter={filter2}></Products>
+        <Products title={type[2]} cla="Beauty" filter={filter3}></Products>
+        <Products title={type[3]} cla="Beauty" filter={filter4}></Products>
+        <Products title={type[4]} cla="Beauty" filter={filter5}></Products>
+        <Products title={type[5]} cla="Beauty" filter={filter6}></Products>
         </>
     )
 }

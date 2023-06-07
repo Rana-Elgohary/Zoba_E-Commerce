@@ -16,7 +16,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Women",
         "category": "Tops",
-        "filter": "BoatNeck",
+        "filter": "Boat Neck",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FWomen%2FBoatNeck.jpg?alt=media&token=5823cfed-7c80-4335-ad96-9532a4eb3710",
     },
     {
@@ -26,7 +26,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Women",
         "category": "Tops",
-        "filter": "ColdShoulder",
+        "filter": "Cold Shoulder",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FWomen%2FColdShoulder.jpg?alt=media&token=5788b448-3686-4267-9fca-ddc2ec6cc969",
     },
     {
@@ -206,7 +206,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Kids",
         "category": "Girls",
-        "filter": "FullOutfits",
+        "filter": "Full Outfits",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FKids%2Fout.webp?alt=media&token=97d04791-33f2-451f-821a-296c75ebdc36",
     },
     {
@@ -256,7 +256,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Kids",
         "category": "Babies",
-        "filter": "Fulloutfit",
+        "filter": "Full outfit",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FKids%2FoutBaby.webp?alt=media&token=3a5686b1-9dd5-43df-8793-b87b1cd94766",
     },
     {
@@ -346,7 +346,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Home Decore",
-        "filter": "DecorativePillows",
+        "filter": "Decorative Pillows",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FDecorativePillow.webp?alt=media&token=a090f2b7-8d12-4c1d-9a8a-8721ee1a286e",
     },
     {
@@ -356,7 +356,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Home Decore",
-        "filter": "RUGSCARPETS",
+        "filter": "RUGS & CARPETS",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FCarpet.webp?alt=media&token=d62029d9-2578-498c-b073-93fbb85104e8",
     },
     {
@@ -366,7 +366,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Home Decore",
-        "filter": "WALLDECOR",
+        "filter": "WALL DECOR",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FWall.webp?alt=media&token=7281ec35-274d-489c-850a-96738d62b436",
     },
     {
@@ -376,7 +376,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Bedding",
-        "filter": "BEDSKIRTS",
+        "filter": "BED SKIRTS",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FBedSkirt.webp?alt=media&token=597229b8-7c4e-4033-ba1e-3d484715c6c6",
     },
     {
@@ -386,7 +386,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Bedding",
-        "filter": "DUVETCOVERSSETS",
+        "filter": "DUVET COVERS & SETS",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FCover.webp?alt=media&token=484bd5b8-902c-4f46-b5fe-cfc1bd2eef8f",
     },
     {
@@ -396,7 +396,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Bedding",
-        "filter": "BLANKETSTHROWS",
+        "filter": "BLANKETS & THROWS",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FBlanket.webp?alt=media&token=ed967419-7b4d-4a13-9dd0-5270f5501672",
     },
     {
@@ -406,7 +406,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Kitchen",
-        "filter": "Tablerunners",
+        "filter": "Table runners",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FTableRunn.webp?alt=media&token=32461759-b127-41d0-80bf-b1ad1b44c067",
     },
     {
@@ -416,7 +416,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Kitchen",
-        "filter": "Placemats",
+        "filter": "Place mats",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FPlaceMat.webp?alt=media&token=dab5f1b5-42c3-48b9-a3ec-57ff2f540a24",
     },
     {
@@ -436,7 +436,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Lighting",
-        "filter": "NoveltyLighting",
+        "filter": "Novelty Lighting",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FNovelty.webp?alt=media&token=a5f83b06-efaf-4872-8b74-636c41cef7ee",
     },
     {
@@ -446,7 +446,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Lighting",
-        "filter": "INDOORLIGHTING",
+        "filter": "INDOOR LIGHTING",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FIndoorLight.webp?alt=media&token=9655a26e-c9d6-4aba-a90a-04d3d32740e0",
     },
     {
@@ -456,7 +456,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Dinning",
-        "filter": "DinningSets",
+        "filter": "Dinning Sets",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FDiningSet.webp?alt=media&token=b9971a30-d47e-4753-809f-dcba02795cbc",
     },
     {
@@ -476,7 +476,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Home",
         "category": "Garden",
-        "filter": "Gardensupplies",
+        "filter": "Garden supplies",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FHome%2FGarden.webp?alt=media&token=b743c11e-acec-4942-8c86-9a732313b63c",
     },
     {
@@ -486,7 +486,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Casual",
-        "filter": "Mensuit",
+        "filter": "Men suit",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2FSuit.jpg?alt=media&token=e7e579a8-d9d3-468a-9e0e-09368f2801bb",
     },
     {
@@ -496,7 +496,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Casual",
-        "filter": "Menblazer",
+        "filter": "Men's blazer",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2FBlazer.jpg?alt=media&token=daa9c480-6631-4a24-a3a5-136cb20416b4",
     },
     {
@@ -506,7 +506,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Casual",
-        "filter": "suitpants",
+        "filter": "suit pants",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2FPants.jpg?alt=media&token=e4355a58-e0f8-42c1-8dc5-0fc728ed44d7",
     },
     {
@@ -546,7 +546,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Shorts",
-        "filter": "Swimmingshorts",
+        "filter": "Swimming shorts",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2FswimShorts.jpg?alt=media&token=ce66379b-9f97-46ed-a3ef-434043f7bc34",
     },
     {
@@ -556,7 +556,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Shorts",
-        "filter": "Beachshorts",
+        "filter": "Beach shorts",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2Fswim5.jpg?alt=media&token=b6785bab-19c5-428f-8e93-d409a7473697",
     },
     {
@@ -576,7 +576,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Men",
         "category": "Coates",
-        "filter": "RainCoats",
+        "filter": "Rain Coats",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FMen%2FcoatsRain.jpg?alt=media&token=845414e9-be8c-4cad-b1b6-e49e56b5ff55",
     },
     {
@@ -606,7 +606,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Brushes",
-        "filter": "BrushesSets",
+        "filter": "Brushes Sets",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FBrushesSet.webp?alt=media&token=4a6cb1f4-81d9-4f58-aa0c-08f6ebbfe6dc",
     },
     {
@@ -616,7 +616,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Brushes",
-        "filter": "EyeLipBrushes",
+        "filter": "Eye & Lip Brushes",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FEyeLipBrush.webp?alt=media&token=4ca9dbfc-a1f7-4536-8e99-e07c876877a5",
     },
     {
@@ -626,7 +626,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Brushes",
-        "filter": "FaceBrushes",
+        "filter": "Face Brushes",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FFaceBrush.webp?alt=media&token=7c74c2e9-f3a6-4236-bb1f-f7e54cdd17e0",
     },
     {
@@ -636,7 +636,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "EyeLashes",
-        "filter": "FalseEyeLashes",
+        "filter": "False Eye Lashes",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FFalseEyeLashes.webp?alt=media&token=1e643180-2532-4d78-afa7-fc0353aae3a9",
     },
     {
@@ -646,7 +646,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "EyeLashes",
-        "filter": "EyeLashesTools",
+        "filter": "EyeLashes Tools",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FEyeLashesTools.webp?alt=media&token=2794fbc3-6fce-4283-a8f1-702f13c2c17c",
     },
     {
@@ -656,7 +656,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Nail Art & Tools",
-        "filter": "PressOnNails",
+        "filter": "Press On Nails",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FPressOnNails.webp?alt=media&token=5aa39b1d-4d7e-4f9d-a864-4af004a84ce3",
     },
     {
@@ -666,7 +666,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Nail Art & Tools",
-        "filter": "NailArtEquipments",
+        "filter": "Nail Art Equipments",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FNailArt.webp?alt=media&token=fdd97741-aa4f-4e81-a6c7-4a4958a21247",
     },
     {
@@ -676,7 +676,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Nail Art & Tools",
-        "filter": "NailArtTools",
+        "filter": "Nail Art Tools",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FNailArtTools.webp?alt=media&token=d2c0446a-3b71-496a-b97f-0dcd411f0e0e",
     },
     {
@@ -686,7 +686,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Tattoos & Body Arts",
-        "filter": "TemporaryTattoos",
+        "filter": "Temporary Tattoos",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FTemporary.webp?alt=media&token=b3e3a421-9a26-4308-aabe-c4fa93d19545",
     },
     {
@@ -696,7 +696,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Tattoos & Body Arts",
-        "filter": "TattoosStencils",
+        "filter": "Tattoos Stencils",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FTattoosStencil.webp?alt=media&token=4f4cdd70-b894-46a9-b455-8c622ea6d99f",
     },
     {
@@ -706,7 +706,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Bags & Tools",
-        "filter": "MakeUpBags",
+        "filter": "MakeUp Bags",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FMackupBag.webp?alt=media&token=d88ee64a-f6c5-46c7-8c12-b91527196bda",
     },
     {
@@ -716,7 +716,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Bags & Tools",
-        "filter": "SpongesBlenders",
+        "filter": "Sponges & Blenders",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FSpongesBlender.webp?alt=media&token=11b4ef13-99cd-4d5f-aad9-e01e5515acf8",
     },
     {
@@ -726,7 +726,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "MakeUp Bags & Tools",
-        "filter": "MakeUpOrganizers",
+        "filter": "MakeUp Organizers",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FMakeUpOranizer.webp?alt=media&token=a529d4df-15ce-47e0-befe-0862131d0bc3",
     },
     {
@@ -736,7 +736,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Personal Care",
-        "filter": "Oral",
+        "filter": "Oral Care",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FOralCare.webp?alt=media&token=4af07ba4-2e17-4cb2-9b54-d7124f327943",
     },
     {
@@ -746,7 +746,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Personal Care",
-        "filter": "SkinCare",
+        "filter": "Skin Care Tools",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FSkinCare.webp?alt=media&token=337353b7-5bab-4269-9b52-41df2e1b762b",
     },
     {
@@ -756,7 +756,7 @@ let ProductsData = [
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "class": "Beauty",
         "category": "Personal Care",
-        "filter": "Hair",
+        "filter": "Hair Tools",
         "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FHairTool.webp?alt=media&token=7344d410-b819-4177-927a-c6aea051d762",
     },
 ]

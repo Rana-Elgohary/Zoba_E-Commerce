@@ -1,8 +1,15 @@
 import React from 'react';
 import Product from './Product';
+import { useState } from 'react';
 
 function Products(props) {
     const arr = props.filter
+
+    const [inputValue, setInputValue] = useState('');
+
+    const handleInputChange = (event) => {
+        setInputValue(event.target.value);
+    };
 
     return(
         <>
@@ -14,14 +21,14 @@ function Products(props) {
                     {arr.map((ele,index)=>{
                         return (
                             <div className="inline-block" key={ele} >
-                                <input className="ml-4 "type="radio" value={ele} name={props.title}/>{ele}
+                                <input className="ml-4 "type="radio" value={ele} name={props.title} onChange={handleInputChange}/>{ele}
                             </div>
                         );
                     })}
                 </form>
             </div>
             <div className='flex flex-wrap justify-center'>
-                <Product title={props.title} cla={props.cla}></Product>
+                <Product catFilter={inputValue} title={props.title} cla={props.cla}></Product>
             </div>
         </div>
         </>

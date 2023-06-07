@@ -12,18 +12,18 @@ function SignUp () {
                     <div className="flex flex-row justify-around">
                         <div>
                             <input type="radio" name="radiogroup1" id="rd1"/>
-                            <label for="rd1">Male</label>
+                            <label htmlFor="rd1">Male</label>
                         </div>
                         <div>
                             <input type="radio" name="radiogroup1" id="rd2"/>
-                            <label for="rd2">Female</label>
+                            <label htmlFor="rd2">Female</label>
                         </div>
                     </div>
 
                     <SignField type="text" title="User Name"></SignField>
                     <SignField type="email" title="E-mail Address"></SignField>
                     <SignField type="password" title="Password"></SignField>
-                    <SignField type="password" title="Confirm Password"></SignField>
+                    <SignField type="confirm password" title="Confirm Password"></SignField>
                     <SignButton title="Register"></SignButton>
                 </form>
             </div>

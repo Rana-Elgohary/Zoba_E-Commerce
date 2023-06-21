@@ -20,7 +20,7 @@ function Products(props) {
                     <span className="text-[#a52a2aa1] font-extrabold tracking-widest ml-4">Filter By </span>
                     {arr.map((ele,index)=>{
                         return (
-                            <div className="inline-block" key={ele} >
+                            <div className="inline-block" key={index} >
                                 <input className="ml-4 "type="radio" value={ele} name={props.title} onChange={handleInputChange}/>{ele}
                             </div>
                         );

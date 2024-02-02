@@ -1,3 +1,15 @@
 {
-  "ProductsCart": []
+  "ProductsCart": [
+    {
+      "id": 67,
+      "title": "Nail Art Equipments",
+      "price": 200,
+      "totalPrice": 800,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "size": "XS",
+      "color": "red",
+      "quantity": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/zoba-c4a93.appspot.com/o/Products%2FBeauty%2FNailArt.webp?alt=media&token=fdd97741-aa4f-4e81-a6c7-4a4958a21247"
+    }
+  ]
 }

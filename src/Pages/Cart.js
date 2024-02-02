@@ -55,8 +55,8 @@ function Cart () {
     let Shipping = 10
     function subPrice () {
         products.forEach((product) => {
-            SubTotal += product.totalPrice;
-        });
+            SubTotal += product.totalPrice
+        },);
         return SubTotal;
     }
 
